@@ -28,9 +28,9 @@ With the modifications that were made, the webpage is fully accessible and read 
 
 ## Installation
 
-Project is uploaded to [Github](https://github.com/) at the following [repository:](https://github.com/mysteriousdj/horiseon-seo-refractor)
+Project is uploaded to [Github](https://github.com/) at the following [repository.](https://github.com/mysteriousdj/horiseon-seo-refractor)
 
-Access to completed [Webpage](https://mysteriousdj.github.io/horiseon-seo-refractor/)
+Access to completed [Webpage.](https://mysteriousdj.github.io/horiseon-seo-refractor/)
 
 
 
